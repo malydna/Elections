@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+    color: blue;
+}
+
+ul {
+    text-align: center;
+    display: inline-block;
+}
